@@ -1,2 +1,4 @@
 
-Library/assetDatabase3
+*.dwlt
+Library/CurrentLayout.dwlt
+
