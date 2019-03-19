@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-03-13T13:25:07.946-04:00
-  initializedAtString: 2019-03-13T13:20:57.105-04:00
+  lastUpdatedAtString: 2019-03-19T15:37:50.434-04:00
+  initializedAtString: 2019-03-19T15:37:50.247-04:00
   localBranches:
-  - name: Austin
-    tracking: origin/Austin
+  - name: Chris
+    tracking: origin/Chris
   - name: master
     tracking: origin/master
   remoteBranches:
@@ -27,7 +27,11 @@ MonoBehaviour:
     tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
+  - name: origin/jeff
+    tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/William1
     tracking: '[None]'
   remotes:
   - name: origin
@@ -39,14 +43,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Austin
+    - Chris
     - master
     values:
-    - name: Austin
+    - name: Chris
       remote:
         name: origin
         url: https://github.com/swaene90/WizardMan.git
-      trackingBranch: Austin
+      trackingBranch: Chris
     - name: master
       remote:
         name: origin
@@ -60,7 +64,9 @@ MonoBehaviour:
       - Austin
       - Chris
       - HEAD
+      - jeff
       - master
+      - William1
     subKeyValues:
     - Values:
       - name: Austin
@@ -78,7 +84,17 @@ MonoBehaviour:
           name: origin
           url: https://github.com/swaene90/WizardMan.git
         trackingBranch: 
+      - name: jeff
+        remote:
+          name: origin
+          url: https://github.com/swaene90/WizardMan.git
+        trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/swaene90/WizardMan.git
+        trackingBranch: 
+      - name: William1
         remote:
           name: origin
           url: https://github.com/swaene90/WizardMan.git
