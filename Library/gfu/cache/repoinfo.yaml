@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-03-13T13:24:24.326-04:00
-  initializedAtString: 2019-03-13T13:20:57.344-04:00
+  lastUpdatedAtString: 2019-03-19T12:16:22.951-04:00
+  initializedAtString: 2019-03-19T11:41:12.878-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/swaene90/WizardMan.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: Chris
+    tracking: origin/Chris
   currentConfigBranch:
-    name: master
+    name: Chris
     remote:
       name: origin
       url: https://github.com/swaene90/WizardMan.git
-    trackingBranch: master
+    trackingBranch: Chris
   currentConfigRemote:
     name: origin
     url: https://github.com/swaene90/WizardMan.git
