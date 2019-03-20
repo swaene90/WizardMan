@@ -13,9 +13,315 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-19T15:37:52.435-04:00
-  initializedAtString: 2019-03-19T12:16:24.908-04:00
+  lastUpdatedAtString: 2019-03-20T13:17:44.119-04:00
+  initializedAtString: 2019-03-20T13:08:03.690-04:00
   log:
+  - commitID: 41b8374d2b12f781c5c58e1f8a3352ee31559e38
+    mergeA: 
+    mergeB: 
+    authorName: Christopher McClure
+    authorEmail: cmcclur7@emich.edu
+    commitEmail: cmcclur7@emich.edu
+    commitName: Christopher McClure
+    summary: Update .gitignore
+    description: 
+    timeString: 2019-03-20T13:17:15.000-04:00
+    commitTimeString: 2019-03-20T13:17:15.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 3f2ebda82045c03e2773bc4d4e5859ff06ed208e
+    mergeA: 
+    mergeB: 
+    authorName: Christopher McClure
+    authorEmail: cmcclur7@emich.edu
+    commitEmail: cmcclur7@emich.edu
+    commitName: Christopher McClure
+    summary: Update .gitignore
+    description: 
+    timeString: 2019-03-20T13:16:52.000-04:00
+    commitTimeString: 2019-03-20T13:16:52.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 547d4b222670b2ea2ecf8b13b97004233752b265
+    mergeA: 
+    mergeB: 
+    authorName: Christopher McClure
+    authorEmail: cmcclur7@emich.edu
+    commitEmail: cmcclur7@emich.edu
+    commitName: Christopher McClure
+    summary: Update .suo
+    description: 
+    timeString: 2019-03-19T16:07:38.000-04:00
+    commitTimeString: 2019-03-19T16:07:38.000-04:00
+    changes:
+    - path: .vs\WizardMan\v15\.suo
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.vs\WizardMan\v15\.suo
+      projectPath: .vs\WizardMan\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: bac5c863a9612c9397abbe70d3ffc4a133bc612b
+    mergeA: f74db9663d529f09345da371b8ba684583898b29
+    mergeB: f7266760d1f6e51771ba0b4dbf32bed9fef303ff
+    authorName: Christopher McClure
+    authorEmail: cmcclur7@emich.edu
+    commitEmail: cmcclur7@emich.edu
+    commitName: Christopher McClure
+    summary: Merge branch 'Chris'
+    description: 
+    timeString: 2019-03-19T16:07:34.000-04:00
+    commitTimeString: 2019-03-19T16:07:34.000-04:00
+    changes: []
+  - commitID: f74db9663d529f09345da371b8ba684583898b29
+    mergeA: 
+    mergeB: 
+    authorName: Christopher McClure
+    authorEmail: cmcclur7@emich.edu
+    commitEmail: cmcclur7@emich.edu
+    commitName: Christopher McClure
+    summary: Nothing important
+    description: 
+    timeString: 2019-03-19T16:06:48.000-04:00
+    commitTimeString: 2019-03-19T16:06:48.000-04:00
+    changes:
+    - path: .vs\WizardMan\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.vs\WizardMan\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\WizardMan\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\WizardMan\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.vs\WizardMan\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\WizardMan\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: f7266760d1f6e51771ba0b4dbf32bed9fef303ff
+    mergeA: 
+    mergeB: 
+    authorName: Christopher McClure
+    authorEmail: cmcclur7@emich.edu
+    commitEmail: cmcclur7@emich.edu
+    commitName: Christopher McClure
+    summary: Nothing important
+    description: 
+    timeString: 2019-03-19T16:05:57.000-04:00
+    commitTimeString: 2019-03-19T16:05:57.000-04:00
+    changes:
+    - path: .vs\WizardMan\v15\.suo
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.vs\WizardMan\v15\.suo
+      projectPath: .vs\WizardMan\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\WizardMan\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.vs\WizardMan\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\WizardMan\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\WizardMan\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.vs\WizardMan\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\WizardMan\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Mats\Sky.mat
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Mats\Sky.mat
+      projectPath: Assets\Mats\Sky.mat
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets\Mats\Sky.mat.meta
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Mats\Sky.mat.meta
+      projectPath: Assets\Mats\Sky.mat.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets\Scenes\NewBehaviourScript.cs.meta
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Scenes\NewBehaviourScript.cs.meta
+      projectPath: Assets\Scenes\NewBehaviourScript.cs.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\Player.cs
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Scripts\Player.cs
+      projectPath: Assets\Scripts\Player.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Player.cs.meta
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Scripts\Player.cs.meta
+      projectPath: Assets\Scripts\Player.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\02\02dd7ee0f7f3e964ba0b630d9bf27233
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\02\02dd7ee0f7f3e964ba0b630d9bf27233
+      projectPath: Library\metadata\02\02dd7ee0f7f3e964ba0b630d9bf27233
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\02\02dd7ee0f7f3e964ba0b630d9bf27233.info
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\02\02dd7ee0f7f3e964ba0b630d9bf27233.info
+      projectPath: Library\metadata\02\02dd7ee0f7f3e964ba0b630d9bf27233.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4b\4bcaeda8362a43f4abbb4d2e702e1324
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\4b\4bcaeda8362a43f4abbb4d2e702e1324
+      projectPath: Library\metadata\4b\4bcaeda8362a43f4abbb4d2e702e1324
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\c6\c679dc0690927a2418f18038b750271e
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\c6\c679dc0690927a2418f18038b750271e
+      projectPath: Library\metadata\c6\c679dc0690927a2418f18038b750271e
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\c6\c679dc0690927a2418f18038b750271e.info
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\c6\c679dc0690927a2418f18038b750271e.info
+      projectPath: Library\metadata\c6\c679dc0690927a2418f18038b750271e.info
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\metadata\ce\ce72ce1da4dd9634f9058ffee5f924df
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\ce\ce72ce1da4dd9634f9058ffee5f924df
+      projectPath: Library\metadata\ce\ce72ce1da4dd9634f9058ffee5f924df
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ce\ce72ce1da4dd9634f9058ffee5f924df.info
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\ce\ce72ce1da4dd9634f9058ffee5f924df.info
+      projectPath: Library\metadata\ce\ce72ce1da4dd9634f9058ffee5f924df.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp\UnityTempFile-2f7ad4f762a6cc445816e74f12b6aa34
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Temp\UnityTempFile-2f7ad4f762a6cc445816e74f12b6aa34
+      projectPath: Temp\UnityTempFile-2f7ad4f762a6cc445816e74f12b6aa34
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-7b997e4f9d62cb94c98e0917cd270598
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Temp\UnityTempFile-7b997e4f9d62cb94c98e0917cd270598
+      projectPath: Temp\UnityTempFile-7b997e4f9d62cb94c98e0917cd270598
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 9a24229860edeb7b83f9502d86d2872ea6838c5f
     mergeA: c4f199ff05731b7a9d7e4938fcad6d5f35ed67c0
     mergeB: a5272729b7960272f027502d5074e8ce833bdb08
