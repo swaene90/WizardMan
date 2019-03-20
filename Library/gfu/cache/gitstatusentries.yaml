@@ -13,15 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-03-20T13:04:04.971-04:00
+  lastUpdatedAtString: 2019-03-20T13:06:25.040-04:00
   initializedAtString: 2019-03-20T12:10:30.271-04:00
   entries:
-  - path: Library\assetDatabase3
-    fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -38,7 +32,7 @@ MonoBehaviour:
     fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\gitstatusentries.yaml
@@ -58,15 +52,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Temp\UnityLockfile
     fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-ecea69d52679c0b4f8823927a11487e2
-    fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Temp\UnityTempFile-ecea69d52679c0b4f8823927a11487e2
-    projectPath: Temp\UnityTempFile-ecea69d52679c0b4f8823927a11487e2
     originalPath: 
     status: 1
     staged: 0

@@ -13,9 +13,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-20T13:04:04.607-04:00
+  lastUpdatedAtString: 2019-03-20T13:06:20.168-04:00
   initializedAtString: 2019-03-20T13:04:02.168-04:00
   log:
+  - commitID: 4fcaf7b62e05eabfb2bb117fa15bcca6dd06c39f
+    mergeA: 
+    mergeB: 
+    authorName: jeff
+    authorEmail: jgolonka@emich.edu
+    commitEmail: jgolonka@emich.edu
+    commitName: jeff
+    summary: commit
+    description: 
+    timeString: 2019-03-20T13:04:42.000-04:00
+    commitTimeString: 2019-03-20T13:04:42.000-04:00
+    changes:
+    - path: Library\StateCache\Hierarchy\f753dd-mainStage.json
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\StateCache\Hierarchy\f753dd-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\f753dd-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\Admin\Documents\GitHub\WizardMan\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 675db948976e1437a0584fb50633175cf265db19
     mergeA: fd90b6f16051378409d76a4ff3324d9861fc21de
     mergeB: 807bec822744a36ad69896e8d80cf2a6b8f165e8
