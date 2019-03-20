@@ -13,9 +13,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-20T13:17:44.119-04:00
+  lastUpdatedAtString: 2019-03-20T13:19:53.406-04:00
   initializedAtString: 2019-03-20T13:08:03.690-04:00
   log:
+  - commitID: c4d68c43d8cd51ff278bff836994650447acba87
+    mergeA: 
+    mergeB: 
+    authorName: Christopher McClure
+    authorEmail: cmcclur7@emich.edu
+    commitEmail: cmcclur7@emich.edu
+    commitName: Christopher McClure
+    summary: Test
+    description: 
+    timeString: 2019-03-20T13:18:14.000-04:00
+    commitTimeString: 2019-03-20T13:18:14.000-04:00
+    changes:
+    - path: Assets\Mats\N.mat
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Mats\N.mat
+      projectPath: Assets\Mats\N.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Mats\N.mat.meta
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Mats\N.mat.meta
+      projectPath: Assets\Mats\N.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f
+      projectPath: Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f.info
+      fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f.info
+      projectPath: Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f.info
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 41b8374d2b12f781c5c58e1f8a3352ee31559e38
     mergeA: 
     mergeB: 

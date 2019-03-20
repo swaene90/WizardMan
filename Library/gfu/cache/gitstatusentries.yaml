@@ -13,32 +13,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-03-20T13:18:02.278-04:00
+  lastUpdatedAtString: 2019-03-20T13:19:53.984-04:00
   initializedAtString: 2019-03-20T12:02:59.005-04:00
   entries:
+  - path: .gitignore
+    fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\.gitignore
+    projectPath: .gitignore
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Assets\Mats\N.mat
     fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Mats\N.mat
     projectPath: Assets\Mats\N.mat
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Assets\Mats\N.mat.meta
     fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Assets\Mats\N.mat.meta
     projectPath: Assets\Mats\N.mat.meta
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
-    staged: 0
-  - path: Library\CrashedAssetImports.txt
-    fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
-    originalPath: 
-    status: 1
     staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\gfu\cache\branches.yaml
@@ -74,13 +74,13 @@ MonoBehaviour:
     fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f
     projectPath: Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f.info
     fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f.info
     projectPath: Library\metadata\ea\eaa30d5c1dea5c94489f29d4cf59ae5f.info
     originalPath: 
-    status: 1
+    status: 5
     staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Carol\Documents\GitHub\WizardMan\Library\shadercompiler-UnityShaderCompiler.exe0.log
